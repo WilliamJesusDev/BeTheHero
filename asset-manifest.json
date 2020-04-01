@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/BeTheHero/static/js/main.3b63e4b8.chunk.js",
+    "main.js.map": "/BeTheHero/static/js/main.3b63e4b8.chunk.js.map",
+    "runtime-main.js": "/BeTheHero/static/js/runtime-main.fe32f87f.js",
+    "runtime-main.js.map": "/BeTheHero/static/js/runtime-main.fe32f87f.js.map",
+    "static/js/2.48a89ac5.chunk.js": "/BeTheHero/static/js/2.48a89ac5.chunk.js",
+    "static/js/2.48a89ac5.chunk.js.map": "/BeTheHero/static/js/2.48a89ac5.chunk.js.map",
+    "index.html": "/BeTheHero/index.html",
+    "precache-manifest.e8935e69461387ad03fd594041818849.js": "/BeTheHero/precache-manifest.e8935e69461387ad03fd594041818849.js",
+    "service-worker.js": "/BeTheHero/service-worker.js",
+    "static/js/2.48a89ac5.chunk.js.LICENSE.txt": "/BeTheHero/static/js/2.48a89ac5.chunk.js.LICENSE.txt",
+    "static/media/heroes.png": "/BeTheHero/static/media/heroes.1f4b5508.png",
+    "static/media/logo.svg": "/BeTheHero/static/media/logo.62e865e1.svg",
+    "static/media/logoDark.svg": "/BeTheHero/static/media/logoDark.260cbf59.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe32f87f.js",
+    "static/js/2.48a89ac5.chunk.js",
+    "static/js/main.3b63e4b8.chunk.js"
+  ]
+}
